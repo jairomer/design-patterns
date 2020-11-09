@@ -1,0 +1,11 @@
+package visitor;
+
+interface Visitable {
+    // Allows the visitor to pass the object so that the right operations 
+    // occur on the right type of object.
+
+    // accept() is passed the same visitor object but then the method 
+    // visit() is called using the visitor object. The right version of 
+    // visit() is called because of method overloading. 
+    public double accept(Visitor visitor);
+}

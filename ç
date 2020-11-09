@@ -1,0 +1,47 @@
+# Compilation of design pattern examples 
+
+An ongoing work in progress for the study and understanding of software desing patterns.
+
+**Design patterns are the best formalized practices a programmer can use to solve common problems when designing an application or system.**
+
+
+## Behaviour 
+
+**Responsible for efficient object creation mechanisms to increase the flexibility and reuse of the existing code.**
+
+- command  
+- interpreter  
+- iterator  
+- mediator  
+- memento  
+- observer  
+- responsibility\_chain  
+- state  
+- strategy  
+- template\_method  
+- visitor
+
+
+## Creation 
+
+**Define patterns relating manners of communication between classes and objects.**
+
+- abstract\_factory  
+- builder  
+- factory\_method  
+- prototype  
+- singleton: Only one object of a particular class is ever created during the lifetime of a system.
+
+
+## Structure
+
+**Responsible for building simple and efficient class hierarchies and relations between different classes and objects.**
+
+- adapter  
+- bridge  
+- composite  
+- decorator  
+- facade  
+- flyweight  
+- proxy
+
