@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Compilation of design patterns. 
-=======
 # Compilation of design patterns 
->>>>>>> 1366dae9cd445146ab23e547885b44bdf668747b
 
 An ongoing work in progress for the study and understanding of software desing patterns.
 
