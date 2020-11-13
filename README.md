@@ -1,4 +1,4 @@
-# Compilation of design pattern examples 
+# Compilation of design patterns. 
 
 An ongoing work in progress for the study and understanding of software desing patterns.
 
